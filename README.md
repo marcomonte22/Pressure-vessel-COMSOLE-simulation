@@ -5,7 +5,9 @@ We first achieved the solution using a FEM simulation software, then we compared
 
 ## Analitical approach
 
-This paper shows the derivation of the algebraic solution of the problem, using the principles of linear elasticity. The geometry problem can be visualized in the figure below. 
+[This paper](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/main/mathematical_background_for_variational_calculus.pdf) shows the derivation of the algebraic solution of the problem, using the principles of linear elasticity. 
+The geometry of the problem can be visualized in the figure below. 
+
 <img src = "cylinder pressure.png" alt = "pressure distribution and dimensions" width = "350">
 
 
