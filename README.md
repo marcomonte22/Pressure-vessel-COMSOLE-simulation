@@ -13,10 +13,10 @@ The geometry of the problem can be visualized in the figure below.
 
 ## Numerical approach
 
-In order to solve the problem numerically we implemented a structural simulation on COMSOLE using the weak formulation of the elastostatic problem. Here are listed some papers about the mathematical background about the variational calculus, the weak formulation and the finite element method:
-* variational calculus
-* weak formulation of the elastostatic problem
-* finite element method
+In order to solve the problem numerically we implemented a structural simulation on COMSOLE using the weak formulation of the elastostatic problem. Here are listed some papers about a mathematical background on the variational calculus, the weak formulation and the finite element method:
+* [variational calculus](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/variational_calculus_background.pdf)
+* [weak formulation of the elastostatic problem](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/linear_elasticity.pdf)
+* [finite element method](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/fem_method.pdf)
 
 
 
