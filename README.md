@@ -1,7 +1,7 @@
 # Resolution of the pressure vessel problem
 
-In this repository we will show the resolution of classical problem in linear elasticity. We want to analyze the effects of an internal and external pressure distribution on an hollow cylinder, with an internal radius *a* and an external radius *b*.
-We first achieved the solution using a FEM simulation software, then we compared it with the exact algebraic solutions (obtainable forthis particular case). In the following sections we will show the steps that led us to the implementation of the problem, which required a strong theoretical back-ground, from the mathematical model to the linear elasticity equations, along with a brief digression of the FEM method.
+In this repository we will show the resolution of a classical problem in linear elasticity: we want to analyze the effects of an internal and external pressure distribution on a hollow cylinder, with an internal radius *a* and an external radius *b*.
+We first achieved the solution using a FEM simulation software, then we compared it with the exact algebraic solutions (obtainable for this particular case). In the following sections we will show the steps that led us to the implementation of the problem, which required a strong theoretical background, from the mathematical model to the linear elasticity equations, along with a brief digression of the FEM method.
 
 ## Analitical approach
 
@@ -13,7 +13,7 @@ The geometry of the problem can be visualized in the figure below.
 
 ## Numerical approach
 
-In order to solve the problem numerically we implemented a structural simulation on COMSOLE using the weak formulation of the elastostatic problem. Here are listed some papers about a mathematical background on the variational calculus, the weak formulation and the finite element method:
+In order to solve the problem numerically we implemented a structural simulation on COMSOL using the weak formulation of the elastostatic problem. Here are listed some papers about a mathematical background on the variational calculus, the weak formulation and the finite element method:
 * [variational calculus](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/variational_calculus_background.pdf)
 * [weak formulation of the elastostatic problem](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/linear_elasticity.pdf)
 * [finite element method](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/fem_method.pdf)
