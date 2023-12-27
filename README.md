@@ -13,12 +13,24 @@ The geometry of the problem can be visualized in the figure below.
 
 ## Numerical approach
 
-In order to solve the problem numerically we implemented a structural simulation on COMSOL using the weak formulation of the elastostatic problem. Here are listed some papers about a mathematical background on the variational calculus, the weak formulation and the finite element method:
+In order to solve the problem numerically we implemented a structural simulation on COMSOL® using the weak formulation of the elastostatic problem. Here are listed some papers about a mathematical background on the variational calculus, the weak formulation and the finite element method:
 * [variational calculus](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/variational_calculus_background.pdf)
 * [weak formulation of the elastostatic problem](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/linear_elasticity.pdf)
 * [finite element method](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/fem_method.pdf)
 
-[Here](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/09e062c9c0dc3ee07a961803ba0127ad8dc91d5a/comsole_implementation%20(1).pdf) you can find an interesting description of the methods used to implement the simulation on COMSOL, with a detailed comparison with the solution obtained analitically.
+[Here](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/09e062c9c0dc3ee07a961803ba0127ad8dc91d5a/comsole_implementation%20(1).pdf) you can find an interesting description of the methods used to implement the simulation on COMSOL®, with a detailed comparison with the solution obtained analitically.
+
+### Conclusions
+
+We have verified that the solutions obtained either numerically or algebraically, in
+fact, do correspond. Over the course of the project, we acquired a good knowledge
+of the COMSOL® software, which, with its versatility, can allow us to implement a
+large variety of problems, starting from weak form PDE. However, a deep under-
+standing of this software wouldn’t have been possible without a strong theoretical
+basis. Our special thanks go to Dott. Matteo Ruggieri, who helped us with his
+lectures and his support and to Prof. Giuseppe Tomassetti, the supervisor of the
+laboratory.
+
 
 
 
