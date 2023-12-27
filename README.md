@@ -25,10 +25,10 @@ In order to solve the problem numerically we implemented a structural simulation
 We have verified that the solutions obtained either numerically or algebraically, in
 fact, do correspond. Over the course of the project, we acquired a good knowledge
 of the COMSOL® software, which, with its versatility, can allow us to implement a
-large variety of problems, starting from weak form PDE. However, a deep under-
-standing of this software wouldn’t have been possible without a strong theoretical
+large variety of problems, starting from weak form PDE. However, a deep understanding 
+of this software wouldn’t have been possible without a strong theoretical
 basis. Our special thanks go to Dott. Matteo Ruggieri, who helped us with his
-lectures and his support and to Prof. Giuseppe Tomassetti, the supervisor of the
+lectures and his support, and to Prof. Giuseppe Tomassetti, the supervisor of the
 laboratory.
 
 
