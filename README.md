@@ -17,6 +17,7 @@ In order to solve the problem numerically we implemented a structural simulation
 * [variational calculus](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/variational_calculus_background.pdf)
 * [weak formulation of the elastostatic problem](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/linear_elasticity.pdf)
 * [finite element method](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/cd715fedaba7105e907eb456e4e37c95c5a3c319/fem_method.pdf)
+
 [Here](https://github.com/marcomonte22/Pressure-vessel-COMSOLE-simulation/blob/09e062c9c0dc3ee07a961803ba0127ad8dc91d5a/comsole_implementation%20(1).pdf) you can find an interesting description of the methods used to implement the simulation on COMSOL, with a detailed comparison with the solution obtained analitically.
 
 
