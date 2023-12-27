@@ -1,4 +1,4 @@
-# Resolution of the pressure vessel problem
+# Resolution of the cylindrical pressure vessel problem
 
 In this repository we will show the resolution of a classical problem in linear elasticity: we want to analyze the effects of an internal and external pressure distribution on a hollow cylinder, with an internal radius *a* and an external radius *b*.
 We first achieved the solution using a FEM simulation software, then we compared it with the exact algebraic solutions (obtainable for this particular case). In the following sections we will show the steps that led us to the implementation of the problem, which required a strong theoretical background, from the mathematical model to the linear elasticity equations, along with a brief digression of the FEM method.
