@@ -33,9 +33,9 @@ laboratory.
 
 ## Bibliography
 
-* Lallit Anand, Sanjay Govindjee, Continuum Mechanics of Solids, Oxford University Press, 2020;
+* Lallit Anand, Sanjay Govindjee, Continuum Mechanics of Solids, Oxford University Press, 2020;
 * Paolo Casini, Marcello Vasta, Scienza delle Costruzioni, Città Studi, 2019
-* Matteo Ruggieri, Variational Formulation; Principle of Minimum Potential Energy and Elastostatic Systems, Università degli Studi Roma Tre, 2023;
+* Matteo Ruggieri, Variational Formulation; Principle of Minimum Potential Energy and Elastostatic Systems, Università degli Studi Roma Tre, 2023;
 * COMSOL® Documentation and COMSOL® Discussion Forum;
 
 
