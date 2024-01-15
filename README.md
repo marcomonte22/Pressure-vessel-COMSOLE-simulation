@@ -31,6 +31,13 @@ basis. Our special thanks go to Dott. Matteo Ruggieri, who helped us with his
 lectures and his support, and to Prof. Giuseppe Tomassetti, the supervisor of the
 laboratory.
 
+## Bibliography
+
+* Lallit Anand, Sanjay Govindjee, Continuum Mechanics of Solids, Oxford University Press, 2020;
+* Paolo Casini, Marcello Vasta, Scienza delle Costruzioni, Città Studi, 2019
+* Matteo Ruggieri, Variational Formulation; Principle of Minimum Potential Energy and Elastostatic Systems, Università degli Studi Roma Tre, 2023;
+* COMSOL® Documentation and COMSOL® Discussion Forum;
+
 
 
 
